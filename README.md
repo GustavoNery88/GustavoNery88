@@ -17,7 +17,5 @@
   <a href ="mailto:gusta123samgmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-nery-745587218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
-![Snake animation](https://github.com/GustavoNery88/GustavoNery88
-README.md/output/github-contribution-grid-snake.svg)
- 
 </div>
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
