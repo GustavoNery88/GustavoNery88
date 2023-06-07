@@ -2,10 +2,9 @@
 - 🔭 Apaixonado por tecnologia
 - 🌱 Estudante Sistemas da Informação 
 
-<div align="center">
-  <a href="https://github.com/GustavoNery88">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoNery88&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNery88&layout=compact&langs_count=7&theme=cobalt"/>
+<div>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LuigiGF&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
   
   <div style="display: inline_block"><br>
