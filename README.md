@@ -1,8 +1,7 @@
 ## Ola! sou o Gustavo Nery 🖐️
 - 🔭 Apaixonado por tecnologia
 - 🌱 Estudante Sistemas da Informação
-
-  📌 [Meu portifólio](https://lucyanovidio.vercel.app)
+- 📌 [Meu portifólio](https://gustavonery.vercel.app)
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoNery88&show_icons=true&count_private=true&theme=dark" >
